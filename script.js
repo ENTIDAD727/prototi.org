@@ -20,3 +20,4 @@ function convertCurrency() {
 
     document.getElementById('result').innerText = `La cantidad convertida es: ${convertedAmount} COP`;
 }
+  
